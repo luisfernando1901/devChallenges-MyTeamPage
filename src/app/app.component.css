@@ -1,0 +1,19 @@
+.img{
+    min-width:264px;
+    min-height: 383px;
+}
+
+.img-small{
+    min-width:138px;
+    min-height: 220px;
+}
+
+.footer{
+
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #A9A9A9;
+
+}
